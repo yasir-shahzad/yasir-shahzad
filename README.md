@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yasir-shahzad&label=Profile%20views&color=0e75b6&style=flat" alt="yasir-shahzad" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yasir-shahzad" alt="yasir-shahzad" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/themastermindpk" target="blank"><img src="https://img.shields.io/twitter/follow/themastermindpk?logo=twitter&style=for-the-badge" alt="themastermindpk" /></a> </p>
 
