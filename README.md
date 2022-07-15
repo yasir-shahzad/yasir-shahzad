@@ -1,4 +1,4 @@
-[![MasterHead](https://i.gifer.com/9kGQ.gif)](https://www.linkedin.com/in/yasirshahzad18/)
+[![MasterHead](https://ldm-grp.com/wp-content/uploads/2020/11/cybersecuritybanner.jpg)](https://www.linkedin.com/in/yasirshahzad18/)
 <h1 align="center">Hi 👋, I'm Yasir Shahzad</h1>
 <h3 align="center">A passionate embedded engineer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
