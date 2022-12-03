@@ -19,7 +19,7 @@
 
 - ⚡ Fun fact **I am Funny**
 
-- 📝 [Resume](https://pdfhost.io/v/oX6zF.e4k_YasirShahzad)
+- 📝 [Resume](https://github.com/yasir-shahzad/resume/raw/master/YasirShahzad.pdf)
 
 If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
