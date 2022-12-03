@@ -19,7 +19,7 @@
 
 - ⚡ Fun fact **I am Funny**
 
-- 📝 [Resume](https://chiragresume.vercel.app/images/resume/Chirag_Mehta_CV.pdf)
+- 📝 [Resume](https://pdfhost.io/v/oX6zF.e4k_YasirShahzad)
 
 If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
