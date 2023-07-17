@@ -9,15 +9,15 @@
 
 <!-- <p align="left"> <a href="https://twitter.com/themastermindpk" target="blank"><img src="https://img.shields.io/twitter/follow/themastermindpk?logo=twitter&style=for-the-badge" alt="themastermindpk" /></a> </p> -->
 
-- 🔭 I’m currently working on **Kidney dialysis machine**
+- 🔭  I am presently engaged in the development of a **kidney dialysis machine**.
 
-- 🌱 I’m currently learning **Python, QT, C++**
+- 🌱  I am currently expanding my skills in **Python, QT, and C++** programming languages.
 
-- 💬 Ask me about **IoT, PCB design, Integration & Automation**
+- 💬 Feel free to approach me for discussions on topics such as **IoT, PCB design, Integration, and Automation**.
 
-- 📫 How to reach me **Yasirshahzad918@gmail.com**
+- 📫 You can reach me at **Yasirshahzad918@gmail.com**.
 
-- ⚡ Fun fact **I am Funny**
+- ⚡ Fun fact: Besides being a professional, I also possess a great sense of humor.
 
 - 📝 [Resume](https://github.com/yasir-shahzad/resume/raw/master/YasirShahzad.pdf)
 
