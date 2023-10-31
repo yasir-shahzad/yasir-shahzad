@@ -44,8 +44,9 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yasir-shahzad&theme=tokyonight&" alt="yasir-shahzad" /></p>
 
+<!--
 [![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=yasir-shahzad&&theme=xcode)](https://github.com/yasir-shahzad)
-
+-->
 
 
 
