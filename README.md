@@ -29,7 +29,7 @@
 
 - ⚡ Fun fact: Besides my technical expertise, I also have a great sense of humor!
 
-- 📝 [Resume](https://github.com/yasir-shahzad/resume/raw/master/YasirShahzad.pdf)
+- 📝 [Resume](https://github.com/yasir-shahzad/yasir-shahzad/blob/resources/media/YasirShahzad.pdf)
 
 
 If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
