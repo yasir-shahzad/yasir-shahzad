@@ -136,6 +136,13 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
   </a>
 </p>
 
+![github contribution grid snake animation](https://raw.githubusercontent.com/yasir-shahzad/yasir-shahzad/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/yasir-shahzad/yasir-shahzad/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+
+
+
+
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yasir-shahzad&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="yasir-shahzad" />
 </p>
