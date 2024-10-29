@@ -145,10 +145,26 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats 
 
 [![Yasir's github stats](https://bad-apple-github-readme.vercel.app/api?username=yasir-shahzad&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
- 
+[![Yasir's current streak](https://streak-stats.demolab.com/?user=yasir-shahzad&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=yasir-shahzad&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
-[![Yasir's current streak](https://streak-stats.demolab.com/?user=yasir-shahzad&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=HastiNeg&theme=jolly&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=HastiNeg&theme=jolly&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=HastiNeg&theme=jolly&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=HastiNeg&theme=default&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=HastiNeg&limit=5&theme=nightowl&combine_all_yearly_contributions=true)
+
 
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
