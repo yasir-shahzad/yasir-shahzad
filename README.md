@@ -149,13 +149,6 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=yasir-shahzad&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
 
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Yasir-Shahzad&theme=jolly&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Yasir-Shahzad&theme=jolly&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yasir-Shahzad&theme=jolly&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Yasir-Shahzad&theme=default&no-frame=false&no-bg=false&margin-w=4)
 
