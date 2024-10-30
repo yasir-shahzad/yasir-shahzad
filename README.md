@@ -144,7 +144,7 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 ![github contribution grid snake animation](https://raw.githubusercontent.com/yasir-shahzad/yasir-shahzad/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats 
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
 [![Yasir's github stats](https://bad-apple-github-readme.vercel.app/api?username=yasir-shahzad&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)  
 [![Yasir's current streak](https://streak-stats.demolab.com/?user=yasir-shahzad&count_private=true&theme=blue-green&title_color=00b3ff)](#)  
