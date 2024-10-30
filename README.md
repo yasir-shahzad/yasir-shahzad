@@ -137,7 +137,9 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 </p>
 
 
-
+<p align="center">
+    <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp">
+</p>
 ![github contribution grid snake animation](https://raw.githubusercontent.com/yasir-shahzad/yasir-shahzad/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/yasir-shahzad/yasir-shahzad/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
@@ -152,8 +154,16 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Yasir-Shahzad&theme=default&no-frame=false&no-bg=false&margin-w=4)
 
+<p align="center">
+    <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp">
+</p>
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+
+<p align="center">
+    <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp">
+</p>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Yasir-Shahzad&limit=5&theme=nightowl&combine_all_yearly_contributions=true)
