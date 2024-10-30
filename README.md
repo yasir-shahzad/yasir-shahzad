@@ -1,9 +1,8 @@
 [![MasterHead](https://i.imgur.com/qNFF2xG.jpg)](https://www.linkedin.com/in/yasirshahzad18/)
 <h1 align="center">Hi 👋, I'm Yasir Shahzad</h1>
-<div align=center><img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Passionate+Embedded+Engineer;Product+Developer;Open-Source+Enthusiast" alt="Headline"></div>
 <div align="center">
   <a href="https://github.com/Rez4-3yz/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Competitive+Programmer;ACPC+2022+2024+Finalist;DS%20|%20Algorithms%20|%20OOP%20;Specialist%20on%20Codeforces;Division%202%20on%20Codechef%20(💬%Stars);🌿%20Rza2005%20on%20Atcoder;Always%20learning%20new%20things&center=true&width=500&height=50">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=🌿Passionate+Embedded+Engineer🌿;🌿Product+Developer🌿;🌿Open-Source+Enthusiast🌿;Competitive+Programmer;DS%20|%20Algorithms%20|%20OOP%20;Specialist%20on%20Codeforces;Division%202%20on%20Codechef%20(💬%Stars);🌿%20Rza2005%20on%20Atcoder&center=true&width=500&height=50">
   </a>
 </div>
 
