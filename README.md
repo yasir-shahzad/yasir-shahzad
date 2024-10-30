@@ -2,10 +2,9 @@
 <h1 align="center">Hi 👋, I'm Yasir Shahzad</h1>
 <div align="center">
   <a href="https://github.com/Rez4-3yz/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=🌿Passionate+Embedded+Engineer🌿;🌿Product+Developer🌿;🌿Open-Source+Enthusiast🌿;Competitive+Programmer;DS%20|%20Algorithms%20|%20OOP%20;Specialist%20on%20Codeforces;Division%202%20on%20Codechef%20(💬%Stars);🌿%20Rza2005%20on%20Atcoder&center=true&width=500&height=50">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=🌿Passionate+Embedded+Engineer🌿;🔧Product+Developer🔧;🌱Open-Source+Enthusiast🌱;💻Competitive+Programmer💻&center=true&width=500&height=50">
   </a>
 </div>
-
 
 <img align="right" alt="Coding" width="400" src="https://github.com/yasir-shahzad/yasir-shahzad/blob/resources/media/programmer_animatoin.gif">
 
