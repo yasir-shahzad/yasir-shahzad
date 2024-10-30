@@ -151,7 +151,7 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-
+<img align="right" alt="Coding" width="400" src="https://github.com/yasir-shahzad/yasir-shahzad/blob/resources/media/Cat-animatoin.gif">
 [![Yasir's github stats](https://bad-apple-github-readme.vercel.app/api?username=yasir-shahzad&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)  
 [![Yasir's current streak](https://streak-stats.demolab.com/?user=yasir-shahzad&count_private=true&theme=blue-green&title_color=00b3ff)](#)  
 [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=yasir-shahzad&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
