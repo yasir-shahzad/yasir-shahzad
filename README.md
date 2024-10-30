@@ -136,10 +136,10 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
   </a>
 </p>
 
-
 <p align="center">
     <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp">
 </p>
+
 ![github contribution grid snake animation](https://raw.githubusercontent.com/yasir-shahzad/yasir-shahzad/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/yasir-shahzad/yasir-shahzad/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
